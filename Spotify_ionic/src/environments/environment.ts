@@ -6,6 +6,17 @@ export const environment = {
   production: false
 };
 
+export const firebaseConfig = {
+  apiKey: "AIzaSyBdJ7xqkNVk6quZUlzxQNln38oQKn-P6Nw",
+  authDomain: "spotifyionic.firebaseapp.com",
+  databaseURL: "https://spotifyionic.firebaseio.com",
+  projectId: "spotifyionic",
+  storageBucket: "spotifyionic.appspot.com",
+  messagingSenderId: "37370138111",
+  appId: "1:37370138111:web:4ebe602b1953599e1f2bca",
+  measurementId: "G-XVKTV3H9Q3"
+};
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
